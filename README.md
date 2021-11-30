@@ -1,7 +1,7 @@
 ### Hello, World! 👋,
 
 A passionate engineer that loves to solve problems and have a entrepreneur mindset. 
-I've started my career as a telecommunication engineer, and currently moving to a position related to AI field.
+I've started my career as a telecommunication engineer, and currently moving to a position related to development field.
 
 
 - 🔭 I’m currently working on tinder with anime 
@@ -12,7 +12,7 @@ I've started my career as a telecommunication engineer, and currently moving to 
 
 ### How to reach me
 
-[<img src='https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621991895~hmac=33e218291786bdc1f8533f717ea451c8' alt='linkedin' height='40'>](https://www.linkedin.com/in/jeffreebecerra/) [<img src='https://img-premium.flaticon.com/png/512/174/174855.png?token=exp=1621992546~hmac=f655f64bee723745e73b8f7b53dd437a' alt='instagram' height='40'>](https://www.instagram.com/reydelbn/)  
+[<img src='https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621991895~hmac=33e218291786bdc1f8533f717ea451c8' alt='linkedin' height='40'>](https://www.linkedin.com/in/jeffreebecerra/)
 
 
 <h3 align="left">Languages</h3>
